@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Ben Fogarty's Open Data Portal
+greeting: Welcome to my open daa portal!
+description: A project for CAPP 30310, Civic Tech at the Harris School of Public Policy.
 baseurl: /jkan
 logo: /img/jkan.png
 
