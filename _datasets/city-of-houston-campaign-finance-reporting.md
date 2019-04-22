@@ -1,7 +1,7 @@
 ---
 schema: default
 title: City of Houston Campaign Finance Reporting
-organization: ''
+organization: City of Houston
 notes: 'Last updated: February 5, 2019, 11:09 PM (UTC-06:00)'
 resources:
   - name: City of Houston Campaign Finance Reports - Transactions
