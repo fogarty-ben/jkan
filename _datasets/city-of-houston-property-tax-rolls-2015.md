@@ -2,7 +2,10 @@
 schema: default
 title: City of Houston Property Tax Rolls - 2015
 organization: City of Houston
-notes: ''
+notes: >-
+  Rehosted from
+  http://data.houstontx.gov/dataset/city-of-houston-property-tax-rolls-by-year
+  on 4/22/2019.
 resources:
   - name: City of Houston Property Tax Rolls - Meta Data
     url: >-
