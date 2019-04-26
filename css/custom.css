@@ -1,1 +1,5 @@
 .thumbnail{background-color:#FFFFFF;}
+.jumbotron{background: url("https://github.com/fogarty-ben/jkan/blob/gh-pages/resources/homepage_bg.jpg?raw=true");
+           background-size: contain;
+           background-repeat: no-repeat;
+           background-position: center;}
