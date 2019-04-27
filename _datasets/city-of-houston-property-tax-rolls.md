@@ -27,7 +27,7 @@ resources:
     url: >-
       http://www.houstontx.gov/finance/Open%20Data%20Site/City%20of%20Houston%20Tax%20Year%202015%20Tax%20Roll.xlsx
     format: 'xlsx'
-license: 'Public Domain'
+license: 'https://fairuse.stanford.edu/overview/public-domain/welcome/'
 category:
   - Budget / Finance
 maintainer: Ben Fogarty

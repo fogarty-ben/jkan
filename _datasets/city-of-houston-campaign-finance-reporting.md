@@ -25,7 +25,7 @@ resources:
     url: >-
       https://s3.amazonaws.com/opendatahouston/CampainFinance_2017-10-27T08%3A31%3A12.895Z/Campaign+Finance+Report+Out-of-State+Travel+(Schedule+T).csv
     format: csv
-license: 'Public Domain'
+license: 'https://fairuse.stanford.edu/overview/public-domain/welcome/'
 category:
   - Elections / Politics
 maintainer: Ben Fogarty

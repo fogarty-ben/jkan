@@ -20,7 +20,7 @@ resources:
     url: >-
       https://uchicago.box.com/shared/static/ekilftqh5xx8obksmym8mahd578coj3c.mpk
     format: 'mpk'
-license: Open Data Commons Open Database License (ODbL)
+license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
   - Planning / Zoning
   - Real Estate / Land Records
