@@ -1,8 +1,10 @@
 ---
 schema: default
 title: City of Houston Campaign Finance Reporting
-organization: ''
-notes: "Rehosted from http://data.houstontx.gov/dataset/city-of-houston-campaign-finance-reporting.\r\n\r\nLast updated: February 5, 2019, 11:09 PM (UTC-06:00)"
+organization: 'City of Houston'
+notes: "Rehosted from http://data.houstontx.gov/dataset/city-of-houston-campaign-finance-reporting.\r\n\r\nLast 
+
+updated: February 5, 2019, 11:09 PM (UTC-06:00)"
 resources:
   - name: City of Houston Campaign Finance Reports - Transactions
     url: >-
@@ -19,7 +21,7 @@ resources:
   - name: City of Houston Campaign Finance Reports - Metadata
     url: >-
       https://uchicago.box.com/shared/static/83d0u1rufn4qjlargsu7vhbsf600giii.xlsx
-    format: ''
+    format: xlsx
 license: ''
 category:
   - Elections / Politics
