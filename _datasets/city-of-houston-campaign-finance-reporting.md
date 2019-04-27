@@ -2,25 +2,30 @@
 schema: default
 title: City of Houston Campaign Finance Reporting
 organization: City of Houston
-notes: "Rehosted from http://data.houstontx.gov/dataset/city-of-houston-campaign-finance-reporting.\r\n\r\nLast updated: February 5, 2019, 11:09 PM (UTC-06:00)"
+notes: "Three datasets containing self-reported campaign finance data from candidates, office holders, and special purpose committees for the City of Houston. Data covers from 2007-2017.<br /><br />
+A more complete description of the three datasets is provided in the description document, and the metadata document contains descriptions of each column."
 resources:
-  - name: City of Houston Campaign Finance Reports - Transactions
+  - name: Description
     url: >-
-      https://uchicago.box.com/shared/static/siomyj9syxkf2ug8njg4rbo1bjyw40wl.csv
+     https://opendatahouston.s3.amazonaws.com/2015-05-11T20:38:23.834Z/city-of-houston-campaign-finance-datasets-description.docx
+    format: docx
+  - name: Metadata
+    url: >-
+      https://opendatahouston.s3.amazonaws.com/2015-05-11T20:42:41.024Z/city-of-houston-campaign-finance-datasets-metadata.xlsx
+    format: xlsx
+  - name: Cover Sheets
+    url: >-
+      https://s3.amazonaws.com/opendatahouston/CampainFinance_2017-10-27T08%3A31%3A12.895Z/Campaign+Finance+Reports+Coversheet.csv
     format: csv
-  - name: City of Houston Campaign Finance Reports - Cover Sheet
+  - name: Transactions
     url: >-
-      https://uchicago.box.com/shared/static/izak1oa9xdntco6hdaev8foz01y417fp.csv
+      https://s3.amazonaws.com/opendatahouston/CampainFinance_2017-10-27T08%3A31%3A12.895Z/Campaign+Finance+Reports+Transactions.csv
     format: csv
-  - name: City of Houston Campaign Finance Reports - Out of State Travel
+  - name: Out-of-State Travel
     url: >-
-      https://uchicago.box.com/shared/static/8f0tur3fc4pla798zmfpkak4rdijkkt8.csv
+      https://s3.amazonaws.com/opendatahouston/CampainFinance_2017-10-27T08%3A31%3A12.895Z/Campaign+Finance+Report+Out-of-State+Travel+(Schedule+T).csv
     format: csv
-  - name: City of Houston Campaign Finance Reports - Metadata
-    url: >-
-      https://uchicago.box.com/shared/static/83d0u1rufn4qjlargsu7vhbsf600giii.xlsx
-    format: ''
-license: 'https://creativecommons.org/licenses/by/4.0/'
+license: 'Public Domain'
 category:
   - Elections / Politics
 maintainer: Ben Fogarty
