@@ -12,7 +12,7 @@
 .navbar-default {
     background-color: #2E4C9D;
     border-color: #2E4C9D;}
-a{color: #BF9B30;}
+a{color: red;}
 a:hover{color: #A67C00;}
 a:active{color: #A67C00;}
 .badge, .list-group-item.active>.badge, .nav-pill{background-color: #BF9B30;}
