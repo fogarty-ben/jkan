@@ -1,5 +1,5 @@
 .thumbnail{background-color: rgb(0, 0, 0, 0.0);}
-.jumbotron{background: url("https://github.com/fogarty-ben/jkan/blob/gh-pages/resources/homepage_bg.jpg?raw=true");
+.jumbotron{background: url("https://github.com/fogarty-ben/jkan/blob/gh-pages/resources/homepage_bg.jpg?raw=true"); /*Image from flickr user paul.wasneski*/
            background-size: cover;
            background-repeat: no-repeat;
            background-position: center;}
