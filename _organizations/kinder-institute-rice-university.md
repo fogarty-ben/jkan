@@ -2,5 +2,5 @@
 schema: default
 title: Kinder Institute, Rice University
 description: ''
-logo: ''
+logo: 'https://raw.githubusercontent.com/fogarty-ben/jkan/gh-pages/resources/rice_logo.jpg'
 ---
