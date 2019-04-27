@@ -7,10 +7,10 @@
   logo_credit: Jean Soo from the Noun Project
   featured: true
 - name: Urban Development
-  logo: /img/categories/transportation.svg
-  logo_credit: Dmitry Baranovskiy from the Noun Project
+  logo: /img/categories/city.svg
+  logo_credit: City by Muhajir ila Robbi from the Noun Project
   featured: true
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
-  featured: true
+  featured: false
