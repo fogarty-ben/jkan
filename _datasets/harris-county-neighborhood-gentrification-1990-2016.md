@@ -22,8 +22,7 @@ resources:
     format: 'mpk'
 license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
-  - Planning / Zoning
-  - Real Estate / Land Records
+  - Urban Development
 maintainer: Ben Fogarty
 maintainer_email: benfogarty@uchicago.edu
 ---
