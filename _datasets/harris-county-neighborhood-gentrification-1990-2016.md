@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'Harris County Neighborhood Gentrification, 1990-2016'
-organization: Rice University - Kinder Urban Data Program
+organization: 'Kinder Institute, Rice University'
 notes: "Provides a gentrification type and susceptibility index for each census tract in Harris county. <br /> <br />\r\nChoudary, Wendie. “Neighborhood Gentrification across Harris County: 1990 to 2016.” Rice University-Kinder Institute: UDP, April 8, 2019. https://doi.org/10.25612/837.7mao80j3akg7."
 resources:
   - name: 'Harris County Neighborhood Gentrification, 1990-2016 - ArcGIS'
