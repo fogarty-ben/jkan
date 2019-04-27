@@ -18,5 +18,5 @@ a:focus{color: #A67C00;}
 .badge, .list-group-item.active>.badge, .nav-pill{background-color: #BF9B30;}
 .navbar-default .navbar-nav>.active>a, .navbar-default 
 .navbar-nav>.active>a:hover, .navbar-default 
-.navbar-nav>.active>a:focus{background-color: #A67C00;}
+.navbar-nav>.active>a:focus{background-color: #BF9B30;}
 *{font-family: Verdana}
