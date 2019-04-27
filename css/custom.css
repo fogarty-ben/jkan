@@ -13,6 +13,6 @@
     background-color: #2E4C9D;
     border-color: #2E4C9D;}
 a:link, a:visited{color: #BF9B30;}
-a:hover, a:active{color: #A67C00;}
+a:hover{color: #A67C00;}
 .badge, .list-group-item.active>.badge, .nav-pill{background-color: #BF9B30;}
 *{font-family: Verdana}
