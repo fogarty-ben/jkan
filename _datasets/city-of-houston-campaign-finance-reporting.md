@@ -28,6 +28,6 @@ resources:
 license: 'https://fairuse.stanford.edu/overview/public-domain/welcome/'
 category:
   - Elections / Politics
-maintainer: Ben Fogarty
-maintainer_email: ben.t.fogarty@gmail.com
+maintainer: Houston Information Technology Services
+maintainer_email: houstontxdotgov@houstontx.gov
 ---

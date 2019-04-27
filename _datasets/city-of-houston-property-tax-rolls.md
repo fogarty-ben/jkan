@@ -30,6 +30,6 @@ resources:
 license: 'https://fairuse.stanford.edu/overview/public-domain/welcome/'
 category:
   - Budget / Finance
-maintainer: Ben Fogarty
-maintainer_email: benfogarty@uchicago.edu
+maintainer: Houston Information Technology Services
+maintainer_email: houstontxdotgov@houstontx.gov
 ---
