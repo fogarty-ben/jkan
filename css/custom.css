@@ -11,10 +11,10 @@
 .navbar-default {
     background-color: #2E4C9D;
     border-color: #2E4C9D;}
+.navbar-default .navbar-nav>.active>a, .navbar-default 
+.navbar-nav>.active>a:hover, .navbar-default 
+.navbar-nav>.active>a:focus{background-color: #BF9B30;}
 a{color: #BF9B30;}
 a:hover{color: #A67C00;}
 a:focus{color: #A67C00;}
 .badge, .list-group-item.active>.badge, .nav-pill{background-color: #BF9B30;}
-.navbar-default .navbar-nav>.active>a, .navbar-default 
-.navbar-nav>.active>a:hover, .navbar-default 
-.navbar-nav>.active>a:focus{background-color: #BF9B30;}
